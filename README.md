@@ -10,7 +10,7 @@
 
 **HWID Spoofer** is a Rust-based tool that enables you to spoof system identifiers such as installation ID, PC name, MAC address, hardware profile GUID, hostname, and machine GUID. It's perfect for research, testing, and more, offering a simple yet powerful command-line interface.
 
-> **Disclaimer**: This project is intended for **educational purposes only**. Use it responsibly and in compliance with applicable laws.
+> **Disclaimer**: This project is intended for **educational purposes only**.**and to be used on Fortnight .
 
 ## ✨ Features
 
